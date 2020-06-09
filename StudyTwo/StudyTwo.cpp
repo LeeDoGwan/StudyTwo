@@ -9,6 +9,6 @@ void main(void) {
 	double d = 10.0;
 	string s = "Hello";
 	char buff[] = "World";
-
+	cout << s;
 }
 
